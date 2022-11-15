@@ -31,6 +31,7 @@
 - [【Serverless Framework】nodejs で始めるサーバーレスチュートリアル](https://qiita.com/kousaku-maron/items/c591a1245bdd69c0dad3)
 - [【Node.js】dotenv で環境変数を定義する](https://nullnull.dev/blog/dotenv-tutorial/)
 - [Serverless Framework #012 – リージョン指定デプロイ](https://day-journal.com/memo/serverless-framework-012/)
+- [Rate または Cron を使用したスケジュール式](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/services-cloudwatchevents-expressions.html)
 
 # 環境構築
 

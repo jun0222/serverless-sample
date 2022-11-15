@@ -16,7 +16,7 @@ functions:
   first:
     handler: first.hello
     events:
-      - schedule: cron(0 * * * ? *)
+      - schedule: cron(0 15 * * ? *)
   second:
     handler: second.hello
     events:
